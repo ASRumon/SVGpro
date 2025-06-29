@@ -30,7 +30,7 @@
 
 ### 🔽 Download & Run
 
-1. [Download the latest release](https://github.com/your-username/svg-pro/releases).
+1. [[Download the latest release](https://github.com/your-username/svg-pro/releases).](https://github.com/ASRumon/SVGpro/)
 2. Double-click `SVGPro.exe` to launch the app — no installation required!
 
 > ✅ No Python setup needed. Just download and run!
