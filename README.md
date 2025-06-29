@@ -1,5 +1,5 @@
 # SVG Pro
-
+![Banner](https://i.postimg.cc/rFv2yfnF/image.png)
 **SVG Pro** is a lightweight Windows application for viewing and editing SVG files. It offers a user-friendly interface with powerful features not commonly found in standard SVG viewers.
 
 ---
@@ -31,8 +31,7 @@
 ### 🔽 Download & Run
 
 1. [Download the latest release](https://github.com/your-username/svg-pro/releases).
-2. Extract the `.zip` file (if applicable).
-3. Double-click `SVGPro.exe` to launch the app — no installation required!
+2. Double-click `SVGPro.exe` to launch the app — no installation required!
 
 > ✅ No Python setup needed. Just download and run!
 
@@ -57,9 +56,15 @@ If you find a bug or have an idea, feel free to open an issue.
 
 ---
 
+
 ## 📸 Screenshots
 
-> *(Optional — you can add screenshots of the interface here to show off features.)*
+| SVG Pro in Action | Screenshot 2 |
+|-------------------|------------------|
+| ![Screenshot 1](https://i.postimg.cc/K8ZrT2s9/Screenshot-2025-06-29-202115.png) | ![Screenshot 2](https://i.postimg.cc/htp8b5kK/Screenshot-2025-06-29-202132.png) |
+
+> These screenshots showcase the UI of SVG Pro, including its SVG viewer and color modification tools.
+
 
 ---
 
